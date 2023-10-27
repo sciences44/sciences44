@@ -1,10 +1,9 @@
-### Hi there 👋
-
-
-**`Senior Machine Learning Engineer • MLOps • Data Engineering • Infrastructure 🏭 Everything to help companies to make production-ready ML/AI systems `**
-
+🤖 **`Senior Machine Learning Engineer • MLOps • Data Engineering • Infrastructure `** 🧪
 <br/>
 <br/>
+Assisting companies in deploying full-cycle, production-ready ML/AI solutions. 🏭
+
+
 
 
 <!--
