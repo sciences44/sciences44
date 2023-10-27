@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+**`Senior Machine Learning Engineer • MLOps • Data Engineering • Infrastructure 🏭 Everything to help companies to make production-ready ML/AI systems `**
+
+<br/>
+<br/>
+
+
 <!--
 **sciences44/sciences44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
